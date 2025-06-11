@@ -1,0 +1,45 @@
+Starting daily report automation...
+Fetching emails with query: after:1744999140 before:1745031540 -in:spam -in:trash
+Page 1 (Token: None): Found 9 emails, Total so far: 9
+Processed email: RAG in Action: Build your Own Local PDF Chatbot as a Beginner | Sarah Lea in Data Science Collective
+Processed email: Connect with Product Leaders & Transform Your Product Creation Process
+Processed email: Arc Search on iOS: the fastest way to search on mobile
+Processed email: Sadik Al, start a conversation with your new connection, Kristina
+Processed email: Senior Business Intelligence Analyst at Walt Disney Company and 7 more jobs in Los Angeles, CA for you. Apply Now.
+Processed email: “machine learning engineer”: Yelp - Staff Machine Learning Engineer - Content and Contributor Intelligence (Remote - Canada) and more
+Processed email: New response to I haven’t received my gift at 50% completion. What should I do?
+Processed email: Start watching today
+Processed email: “data scientist”: TIGI HR - Data Scientist and more
+Next page token: None
+All emails have been fetched.
+Total emails processed: 9
+Updating Google Sheet with 9 rows.
+Spreadsheet found: Dailyreport update
+Available sheet tabs: ['Sheet1']
+Cleared Google Sheet range Sheet1!A:B.
+Google Sheet updated successfully.
+Sending message to #mydaily-report
+Message sent successfully to Slack.
+Daily report completed successfully.
+Starting daily report automation...
+Google authentication required. Running local server for authentication...
+Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=75345298067-tjk14a2hds0vmgvuffnblnceoa23rcj4.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8861%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fspreadsheets&state=PFk1vRsjkVS6nYgjSaPujn2CkrphXQ&access_type=offline
+Fetching emails with query: after:1745085540 before:1745117940 -in:spam -in:trash
+Page 1 (Token: None): Found 5 emails, Total so far: 5
+Processed email: Converting Unstructured Data into a Knowledge Graph Using an End-to-End Pipeline | Fareed Khan in Level Up Coding
+Processed email: I want to connect
+Processed email: Cure your tab overload!
+Processed email: Senior Data Scientist at Fox Corporation and 9 more jobs in Los Angeles, CA for you. Apply Now.
+Processed email: New jobs similar to Staff Data Scientist at Optimizely
+Next page token: None
+All emails have been fetched.
+Total emails processed: 5
+Updating Google Sheet with 5 rows.
+Spreadsheet found: Dailyreport update
+Available sheet tabs: ['Sheet1']
+Cleared Google Sheet range Sheet1!A:B.
+Google Sheet updated successfully.
+Sending message to #mydaily-report
+Message sent successfully to Slack.
+Daily report completed successfully.
+^C^C^C^C^C^C^C
